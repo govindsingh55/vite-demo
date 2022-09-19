@@ -1,0 +1,3 @@
+NASA_API zfPLH0CXQvBdg9TABnaRCU6KldGVHLNgCss6vVuj
+
+example url: https://api.nasa.gov/planetary/apod?api_key=zfPLH0CXQvBdg9TABnaRCU6KldGVHLNgCss6vVuj
